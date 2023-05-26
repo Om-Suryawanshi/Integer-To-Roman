@@ -2,17 +2,17 @@
 
 Theory 
 
-I -            1
-V  -           5
-X   -          10
-XL   -         40
-L     -        50
-XC     -       90
-C       -      100
-CD       -     400
-D         -    500
-CM         -   900
-M           -  1000
+I -            1,
+V  -           5,
+X   -          10,
+XL   -         40,
+L     -        50,
+XC     -       90,
+C       -      100,
+CD       -     400,
+D         -    500,
+CM         -   900,
+M           -  1000.
 
 
 2 is written as II in Roman numeral, just two one's added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.
